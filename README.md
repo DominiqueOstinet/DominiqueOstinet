@@ -1,5 +1,5 @@
 - 👋 Hi ! I'm retraining for a new career and I'm doing a Data analyst course at Open Classroom.
-     I'm thinking of doing a Data scientist sandwich course at Wild Code School.
+  
 
 
 <!---
